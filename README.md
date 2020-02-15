@@ -3,3 +3,5 @@
 # Shodrya 
 
  Shodrya is an open-source robot programmed in JavaScript with [Discord.js](http://discord.js.org) by [mumuzaum](http://github.com/mumuzaum) & [Eleven](https://github.com/fagnersales)
+ 
+ <iframe src="https://discordapp.com/widget?id=676862832989569074&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
