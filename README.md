@@ -7,7 +7,7 @@
 
 > Built to assist several servers and users in their respective problems.
 
- Shodrya is an open-source robot programmed in JavaScript with [Discord.js](http://discord.js.org) by [mumuzaum](http://github.com/mumuzaum) & [Eleven](https://github.com/fagnersales)
+ Shodrya is an open-source robot programmed in JavaScript with [Discord.js](http://discord.js.org) by [mumuzaum](http://github.com/mumuzaum) & [Eleven_](https://github.com/fagnersales)
  - Help us by starring the repository! 🌟
  
 ### Pages
@@ -33,3 +33,4 @@ Command|Description|Usage
 Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
 
 <a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/ntLyVpK.png">@mumuzaum</a>
+<a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/0JFoZPp.png">@Eleven_</a>
