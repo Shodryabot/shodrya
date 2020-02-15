@@ -1,2 +1,2 @@
-# Shodrya
-🦅  Organization's main project.
+# Shodrya 
+ Shodrya is an open-source robot programmed in JavaScript with Discord.js by [mumuzaum](http://github.com/mumuzaum) & [Eleven](https://github.com/fagnersales)
