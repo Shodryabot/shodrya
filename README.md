@@ -15,7 +15,7 @@
 - [Commands](#commands)
 - [Developers](#developers)
 
-<h2>Commands</h2>
+<h2 align"center">Commands</h2>
 
 Command|Description|Usage
 -|-|-
