@@ -18,4 +18,4 @@
 
 Command|Description|Usage
 -|-|-
-**`sh!help`**|Use to collect information about the robot's commands.|None
+**`sh!help`**|Collect information about commands.|Unknown
