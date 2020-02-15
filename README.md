@@ -24,6 +24,7 @@
 Command|Description|Usage
 -|-|-
 **`sh!help`**|Collect information about commands.|Unknown
+**`sh!ping`**|See the current latency of Shodrya.|Unknown
 
 <h2 align="center">Developers</h2>
 Developers are the people who assist in the development of the project. 
