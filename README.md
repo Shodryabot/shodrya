@@ -32,5 +32,5 @@ Command|Description|Usage
 
 Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
 
-<a href="https://twitter.com/mumuzaum" target="_blank" style="display: inline-flex; flex-direction: column; align-items: center; max-width: 5em;"><img src="https://i.imgur.com/XeOwGfx.png"><span>Mumuzao</span></a>
-<a href="https://github.com/fagnersales" target="_blank" style="display: inline-flex; flex-direction: column; align-items: center; max-width: 5em;"><img src="https://i.imgur.com/jfzLZ4V.png"><span>Fagner</span></a>
+<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/XeOwGfx.png"></a>
+<a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/jfzLZ4V.png"></a>
