@@ -13,14 +13,14 @@
 <h2>Search 🔎</h2>
 
 - [Commands](#commands)
-- [Developers of Shodrya](#developers)
+- [Developers](#developers)
 
-<h3>Commands 🔗</h3>
+<h2 align="center">Commands</h2>
 
 Command|Description|Usage
 -|-|-
 **`sh!help`**|Collect information about commands.|Unknown
 
-<h4>Developers ☕</h4>
+<h2 align="center">Developers</h2>
 
 Teste
