@@ -15,12 +15,12 @@
 - [Commands](#commands)
 - [Developers](#developers)
 
-<h2 align="center">Commands</h2>
+<h2>Commands</h2>
 
 Command|Description|Usage
 -|-|-
 **`sh!help`**|Collect information about commands.|Unknown
 
-<h2 align="center">Developers</h2>
+<h2>Developers</h2>
 
 Teste
