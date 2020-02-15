@@ -32,5 +32,5 @@ Command|Description|Usage
 
 Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
 
-<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/XeOwGfx.png">@mumuzaum</a>
-<a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/jfzLZ4V.png">@Eleven_</a>
+<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/XeOwGfx.png"></a>
+<a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/jfzLZ4V.png"></a>
