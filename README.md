@@ -10,11 +10,11 @@
  Shodrya is an open-source robot programmed in JavaScript with [Discord.js](http://discord.js.org) by [mumuzaum](http://github.com/mumuzaum) & [Eleven](https://github.com/fagnersales)
  - Help us by starring the repository! 🌟
  
-<h2>Search</h2>
+<h2>Search 🔎</h2>
 
 - [Commands](#commands)
 
-# Commands
+<h3>Commands 🔗</h3>
 
 Command|Description|Usage
 -|-|-
