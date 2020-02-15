@@ -19,7 +19,7 @@
 
 <h2 align="center">Commands</h2>
 
- Shodrya have 2 commands, use them any way you want! You are free to use all my commands.
+ - Shodrya have 2 commands, use them any way you want! You are free to use all my commands.
  
 
 Command|Description|Usage
@@ -28,5 +28,5 @@ Command|Description|Usage
 **`sh!ping`**|See the current latency of Shodrya.|Unknown
 
 <h2 align="center">Developers</h2>
-Developers are the people who assist in the development of the project. 
- In addition to contributing on several occasions. 
+
+Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
