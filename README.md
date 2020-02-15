@@ -31,3 +31,5 @@ Command|Description|Usage
 <h2 align="center">Developers</h2>
 
 Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
+
+<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://pbs.twimg.com/profile_images/1228582762833203200/WrDbfq9Y_400x400.jpg"></a>
