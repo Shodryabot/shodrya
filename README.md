@@ -2,7 +2,7 @@
  
 # Shodrya 
 
-[![](https://img.shields.io/discord/676862832989569074.svg?logo=discord&colorB=65E650)](https://discord.gg/s8Kwp2J)
+[![](https://img.shields.io/discord/676862832989569074?label=support%20serverlogo=discord&logoColor=white)](https://discord.gg/s8Kwp2J)
 
  Shodrya is an open-source robot programmed in JavaScript with [Discord.js](http://discord.js.org) by [mumuzaum](http://github.com/mumuzaum) & [Eleven](https://github.com/fagnersales)
 
