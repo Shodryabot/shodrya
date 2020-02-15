@@ -22,5 +22,5 @@ Command|Description|Usage
 **`sh!help`**|Collect information about commands.|Unknown
 
 <h2>Developers</h2>
-
-Teste
+Developers are the people who assist in the development of the project. 
+ In addition to contributing on several occasions. 
