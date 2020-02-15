@@ -32,4 +32,4 @@ Command|Description|Usage
 
 Developers are the people who assist in the development of the project. In addition to contributing on several occasions. 
 
-<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/ntLyVpK.png"></a>
+<a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/ntLyVpK.png"><title="Title"></a>
