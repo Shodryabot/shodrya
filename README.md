@@ -15,9 +15,12 @@
 - [Commands](#commands)
 - [Developers](#developers)
 
+> Click on the options to navigate between the robot pages.
+
 <h2 align="center">Commands</h2>
  Shodrya have 2 commands, use them any way you want! You are free to use all my commands.
  
+\n 
 Command|Description|Usage
 -|-|-
 **`sh!help`**|Collect information about commands.|Unknown
