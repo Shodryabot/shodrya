@@ -2,8 +2,8 @@
  
 # Shodrya 
 
-[![](https://img.shields.io/discord/676862832989569074?label=official%20server&logo=discord&logoColor=white)](https://discord.gg/s8Kwp2J)
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![server][server-badge]][server-invite]
+[![discordjs][discordjs-badge][discordjs-link]
 
 > Built to assist several servers and users in their respective problems.
 
@@ -34,3 +34,9 @@ Developers are the people who assist in the development of the project. In addit
 
 <a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/XeOwGfx.png"></a>
 <a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/jfzLZ4V.png"></a>
+
+[support-invite]: https://discord.gg/s8Kwp2
+[server-badge]: https://img.shields.io/discord/676862832989569074?label=official%20server&logo=discord&logoColor=white
+
+[discordjs-link]: https://github.com/discordjs
+[discordjs-badge]: https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm
