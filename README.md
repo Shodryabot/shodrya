@@ -3,7 +3,7 @@
 # Shodrya 
 
 [![server][server-badge]][server-invite]
-[![discordjs][discordjs-badge][discordjs-link]
+[![discordjs][discordjs-badge]][discordjs-link]
 
 > Built to assist several servers and users in their respective problems.
 
@@ -35,7 +35,7 @@ Developers are the people who assist in the development of the project. In addit
 <a href="https://twitter.com/mumuzaum" target="_blank"><img src="https://i.imgur.com/XeOwGfx.png"></a>
 <a href="https://github.com/fagnersales" target="_blank"><img src="https://i.imgur.com/jfzLZ4V.png"></a>
 
-[support-invite]: https://discord.gg/s8Kwp2
+[server-invite]: https://discord.gg/s8Kwp2
 [server-badge]: https://img.shields.io/discord/676862832989569074?label=official%20server&logo=discord&logoColor=white
 
 [discordjs-link]: https://github.com/discordjs
